@@ -46,8 +46,6 @@ Welcome to my GitHub profile, **n0tdivyansh**! I'm a first-year BTech Computer S
 
 ## 📊 Stats
 
-![Divyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0tdivyansh&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n0tdivyansh&layout=compact&theme=radical)
 
 ---
