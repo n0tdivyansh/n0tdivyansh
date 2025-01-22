@@ -40,7 +40,7 @@ Welcome to my GitHub profile, **n0tdivyansh**! I'm a first-year BTech Computer S
 
 ## 📫 How to Reach Me
 
-- Email: [n0tdivyansh@gmail.com](mailto:n0tdivyansh@gmail.com)
+- Email: [divyanshv0810@gmail.com](mailto:divyanshv0810@gmail.com)
 - LinkedIn: -
 ---
 
