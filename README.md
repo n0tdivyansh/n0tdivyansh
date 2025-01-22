@@ -8,15 +8,6 @@ Coding Skills: Continuously learning and improving my programming abilities.
 AI Development: Exploring the field of artificial intelligence and its applications.
 
 Humanoid Robots: Interested in the development and functionality of humanoid bots.
-Projects
-
-
-Here are some of the projects I have worked on:
-
-~Pattern Printing: Various C programs to print different patterns.
-~Simple Interest Calculator: A C program to calculate simple interest.
-~Prime Number Checker: A C program to check if a number is prime.
-~Post Manager: A GTK-based application to manage posts.
 
 
 
