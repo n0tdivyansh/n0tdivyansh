@@ -1,6 +1,6 @@
 # Hi there, I'm Divyansh! 👋
 
-Welcome to my GitHub profile, **n0tdivyansh**! I'm a first-year BTech Computer Science student passionate about coding, technology, and continuous learning.
+Welcome to my GitHub profile, **n0tdivyansh**! I'm a second-year BTech Computer Science student passionate about coding, technology, and continuous learning.
 
 ---
 
